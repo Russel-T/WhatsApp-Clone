@@ -9,7 +9,7 @@ function SidebarChat() {
 
   return (
     <div className="sidebarChat">
-      {/* See the video at 1:07:15 for reference... */}
+      {/* See the video at 1:07:15 for reference... (NEED TO GENERATE RANDOM AVATAR GENERATOR)*/}
       <Avatar
         src={`https://api.dicebear.com/6.x/pixel-art/svg?seed=John&hair=short01,short02,short03,short04`}
       />
